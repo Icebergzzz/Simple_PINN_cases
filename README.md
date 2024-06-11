@@ -11,10 +11,10 @@ The case can be changed to suit your needs. Time t is not currently considered a
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $u \left ( 0, y \right ) = 0 $  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $u \left ( 1, y \right ) = e^{-y} $     
 
-<div style="display: flex">
-    <img src="https://github.com/Icebergzzz/Simple-PINN-cases/assets/157273375/2d9b2b62-128f-4ff1-88d9-e850d713788e" alt="First Image" style="margin-right: 10px;" />
-    <img src="https://github.com/Icebergzzz/Simple-PINN-cases/assets/157273375/d8ca5a21-9488-4380-a819-c755aa1064c0" alt="Second Image" />
-</div>
+![Training Loss](https://github.com/Icebergzzz/Simple_PINN_cases/assets/157273375/b744627a-118c-47d5-bc86-06bde2900b91)
+![PINN solve](https://github.com/Icebergzzz/Simple_PINN_cases/assets/157273375/a4254b44-5b21-4c9b-abae-6557b6253144)
+![Uploading u_comparison.png…]()
 
 
-![u_comparison](https://github.com/Icebergzzz/Simple-PINN-cases/assets/157273375/06b1684d-50df-4cf9-8a2a-0d0118d3c4e5)
+
+
