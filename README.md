@@ -11,7 +11,7 @@ The case can be changed to suit your needs. Time t is not currently considered a
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $u \left ( 0, y \right ) = 0 $  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $u \left ( 1, y \right ) = e^{-y} $     
 
-![Training Loss](./Fig/Training Loss.png)
+![Training Loss](https://github.com/Icebergzzz/Simple_PINN_cases/blob/main/Fig/Training%20Loss.png))
 ![PINN solve](https://github.com/Icebergzzz/Simple_PINN_cases/assets/157273375/a4254b44-5b21-4c9b-abae-6557b6253144)
 ![u_comparison](https://github.com/Icebergzzz/Simple_PINN_cases/assets/157273375/89d97052-6f6b-48cd-a635-76dd23b43181)
 
