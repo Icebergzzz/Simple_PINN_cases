@@ -17,6 +17,6 @@ The case can be changed to suit your needs. Time t is not currently considered a
 </p>   
 
 <p align="center">
-  <img src="./Fig/u_comparison.png" width="1000">
+  <img src="./Fig/u_comparison.png" width="1500">
 </p>  
 
