@@ -1,4 +1,4 @@
-# Simple-PINN-cases
+# Simple PINN cases
 Mainly introduces a **simple PINN case**, but also in my learning PINN contact with the first model, I would like to share for everyone to learn.  
 
 The case can be changed to suit your needs. Time t is not currently considered and further updates will follow, hopefully.
