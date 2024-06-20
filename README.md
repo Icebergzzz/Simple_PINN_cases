@@ -12,8 +12,8 @@ The case can be changed to suit your needs. Time t is not currently considered a
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $u \left ( 1, y \right ) = e^{-y} $     
 
 <p align="center">
-  <img src="./Fig/Training_Loss.png" width="400">
-  <img src="./Fig/PINN_solve.png" width="400">
+  <img src="./Fig/Training_Loss.png" width="350">
+  <img src="./Fig/PINN_solve.png" width="350">
 </p>   
 
 <p align="center">
