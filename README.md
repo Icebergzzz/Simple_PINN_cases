@@ -11,11 +11,12 @@ The case can be changed to suit your needs. Time t is not currently considered a
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $u \left ( 0, y \right ) = 0 $  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $u \left ( 1, y \right ) = e^{-y} $     
 
-![Training Loss](./Fig/Training_Loss.png)
-![PINN solve](./Fig/PINN_solve.png)
-![u_comparison](./Fig/u_comparison.png)
+<p align="center">
+  <img src="./Fig/Training_Loss.png" width="400">
+  <img src="./Fig/PINN_solve.png" width="400">
+</p>   
 
-
-
-
+<p align="center">
+  <img src="./Fig/u_comparison.png" width="1000">
+</p>  
 
